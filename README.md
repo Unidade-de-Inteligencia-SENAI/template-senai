@@ -54,8 +54,6 @@ Estrutura Esperada:
 ```css
 ├── src/
 │   ├── __init__.py
-│   ├── integracao.py
-│   ├── transformacao.py
 │   └── main.py
 ├── data/
 ├── requirements.txt
