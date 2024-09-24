@@ -10,6 +10,8 @@
 │
 ├── data                  <- Local aonde serao armazenados os dados utlizados ou gerados
 │
+├── notebooks             <- Local aonde serao armazenados os notebooks
+│
 ├── requirements.txt      <- Local aonde sera armazenado as informações de bibliotecas utlizadas
 │
 └── README.md             <- Descritivo do projeto
