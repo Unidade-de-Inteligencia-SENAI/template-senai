@@ -1,0 +1,7 @@
+[project]
+name = {{ cookiecutter.project_name|tojson }}
+version = "0.0.1"
+description = {{ cookiecutter.project_description|tojson }}
+
+readme = "README.md"
+requires-python = "~={{ cookiecutter.python_version }}"

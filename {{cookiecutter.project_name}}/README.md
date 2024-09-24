@@ -1,4 +1,6 @@
-# Template inicial para os trabalhos
+# {{cookiecutter.project_name}}
+
+{{cookiecutter.project_description}}
 
 ### A arquitetura do projeto
 ```css
