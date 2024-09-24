@@ -19,6 +19,8 @@ Comando:
 cookiecutter https://github.com/Unidade-de-Inteligencia-SENAI/template-senai.git
 ```
 
+---
+
 *Nota*: Se o repositório for privado, siga as instruções na seção "Repositório Privado" abaixo.
 ---
 
