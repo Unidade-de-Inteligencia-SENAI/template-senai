@@ -22,9 +22,10 @@ cookiecutter https://github.com/Unidade-de-Inteligencia-SENAI/template-senai.git
 ---
 
 *Nota*: Se o repositório for privado, siga as instruções na seção "Repositório Privado" abaixo.
+
 ---
 
-### Passo 2: Fornecer as Informações Solicitadas
+#### Passo 2: Fornecer as Informações Solicitadas
 Após executar o comando, o Cookiecutter irá clonar o template e solicitará que você insira as informações necessárias definidas no arquivo cookiecutter.json do template.
 
 Por exemplo:
@@ -36,12 +37,12 @@ project_name [meu_projeto]: nome do meu projeto
 
 ---
 
-##### Passo 3: Gerar o Projeto
+#### Passo 3: Gerar o Projeto
 O Cookiecutter irá criar uma nova pasta com o nome do projeto que você forneceu, contendo toda a estrutura definida no template.
 
 ---
 
-### Passo 4: Verificar a Estrutura do Projeto
+#### Passo 4: Verificar a Estrutura do Projeto
 Navegue até a pasta do seu novo projeto e verifique a estrutura de diretórios e arquivos.
 
 Comandos:
@@ -63,7 +64,7 @@ Estrutura Esperada:
 
 ---
 
-### Passo 5: Instalar Dependências (Se Necessário)
+#### Passo 5: Instalar Dependências (Se Necessário)
 Se o arquivo requirements.txt estiver presente e contiver dependências, instale-as usando:
 ```bash
 pip install -r requirements.txt
@@ -75,7 +76,7 @@ pip install -r requirements.txt
 *Repositório Privado*
 Se o repositório template-senai for privado, você precisará autenticar-se para acessá-lo.
 
-### Opção 1: Usar SSH
+#### Opção 1: Usar SSH
 Verifique se você tem acesso SSH configurado para o repositório corporativo.
 
 Use o comando com a URL SSH:
@@ -96,7 +97,7 @@ Importante: Tenha cuidado ao usar tokens em comandos, pois eles podem ser armaze
 
 ---
 
-### Clonar o Template Localmente
+#### Clonar o Template Localmente
 Caso tenha problemas ao acessar o repositório diretamente, você pode clonar o template para o seu computador e depois usar o Cookiecutter localmente.
 
 - Passo 1: Clonar o Repositório
